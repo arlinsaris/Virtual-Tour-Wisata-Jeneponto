@@ -1,0 +1,258 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Virtual Tour Wisata Jeneponto
+
+## Skin
+
+### Button
+Button_DAD20C98_D5AB_F5D3_41E5_684D9AC7528C.label = Lorem Ipsum
+Button_DAD20C98_D5AB_F5D3_41E5_684D9AC7528C_mobile.label = Lorem Ipsum
+Button_DAD21C98_D5AB_F5D3_41E8_B7518943BB87.label = Lorem Ipsum
+Button_DAD21C98_D5AB_F5D3_41E8_B7518943BB87.pressedLabel = Lorem Ipsum
+Button_DAD21C98_D5AB_F5D3_41E8_B7518943BB87_mobile.label = Lorem Ipsum
+Button_DAD21C98_D5AB_F5D3_41E8_B7518943BB87_mobile.pressedLabel = Lorem Ipsum
+Button_DAD22C98_D5AB_F5D3_41E4_33428BFD11CE.label = Lorem Ipsum
+Button_DAD22C98_D5AB_F5D3_41E4_33428BFD11CE_mobile.label = Lorem Ipsum
+Button_DAD23C98_D5AB_F5D3_41E5_CC9668CF6B95.label = Lorem Ipsum
+Button_DAD23C98_D5AB_F5D3_41E5_CC9668CF6B95_mobile.label = Lorem Ipsum
+Button_DAD24C98_D5AB_F5D3_41E1_274FE311B222.label = Lorem ipsum
+Button_DAD24C98_D5AB_F5D3_41E1_274FE311B222_mobile.label = Lorem ipsum
+Button_DAD25C98_D5AB_F5D3_41D5_FC5C67EECA28.label = Lorem Ipsum
+Button_DAD25C98_D5AB_F5D3_41D5_FC5C67EECA28_mobile.label = Lorem Ipsum
+Button_DAD26C98_D5AB_F5D3_41E8_DF5688A0BDF4.label = Lorem Ipsum
+Button_DAD26C98_D5AB_F5D3_41E8_DF5688A0BDF4_mobile.label = Lorem Ipsum
+Button_DAD40C96_D5AB_F5DF_41DA_3597194C0CF9.label = Lorem Ipsum
+Button_DAD40C96_D5AB_F5DF_41DA_3597194C0CF9.pressedLabel = Lorem Ipsum
+Button_DAD40C96_D5AB_F5DF_41DA_3597194C0CF9_mobile.label = Lorem Ipsum
+Button_DAD40C96_D5AB_F5DF_41DA_3597194C0CF9_mobile.pressedLabel = Lorem Ipsum
+Button_DAD41C96_D5AB_F5DF_41DE_F6590C1859E2.label = Lorem Ipsum
+Button_DAD41C96_D5AB_F5DF_41DE_F6590C1859E2_mobile.label = Lorem Ipsum
+Button_DAD43C96_D5AB_F5DF_41B9_2C976CB7F593.label = Lorem Ipsum
+Button_DAD43C96_D5AB_F5DF_41B9_2C976CB7F593_mobile.label = Lorem Ipsum
+Button_DAD44C95_D5AB_F5DD_41D0_B7E146CA4657.label = BACK
+Button_DAD44C95_D5AB_F5DD_41D0_B7E146CA4657_mobile.label = BACK
+Button_DAD45C97_D5AB_F5DD_41E8_E6E755ED496F.label = Lorem ipsum
+Button_DAD45C97_D5AB_F5DD_41E8_E6E755ED496F_mobile.label = Lorem ipsum
+Button_DAD46C97_D5AB_F5DD_41E9_BA442FBB6409.label = Lorem Ipsum
+Button_DAD46C97_D5AB_F5DD_41E9_BA442FBB6409_mobile.label = Lorem Ipsum
+Button_DAD47C95_D5AB_F5DD_41CB_78482E6451C7.label = Lorem Ipsum
+Button_DAD47C95_D5AB_F5DD_41CB_78482E6451C7_mobile.label = Lorem Ipsum
+Button_DAD47C97_D5AB_F5DD_41D7_75E8F30E246B.label = Lorem Ipsum
+Button_DAD47C97_D5AB_F5DD_41D7_75E8F30E246B_mobile.label = Lorem Ipsum
+Button_DAD48C95_D5AB_F5DD_41E8_2E0DEA132DB6.label = Lorem Ipsum
+Button_DAD48C95_D5AB_F5DD_41E8_2E0DEA132DB6_mobile.label = Lorem Ipsum
+Button_DAD48C97_D5AB_F5DD_41E9_2AF18957C711.label = Lorem Ipsum
+Button_DAD48C97_D5AB_F5DD_41E9_2AF18957C711_mobile.label = Lorem Ipsum
+Button_DAD49C97_D5AB_F5DD_41E7_644E87C89A33.label = Lorem Ipsum
+Button_DAD49C97_D5AB_F5DD_41E7_644E87C89A33_mobile.label = Lorem Ipsum
+Button_DAD4AC95_D5AB_F5DD_41E3_3C212834431A.label = Lorem Ipsum
+Button_DAD4AC95_D5AB_F5DD_41E3_3C212834431A.pressedLabel = Lorem Ipsum
+Button_DAD4AC95_D5AB_F5DD_41E3_3C212834431A_mobile.label = Lorem Ipsum
+Button_DAD4AC95_D5AB_F5DD_41E3_3C212834431A_mobile.pressedLabel = Lorem Ipsum
+Button_DAD4BC95_D5AB_F5DD_41E6_8C5856F56243.label = Lorem Ipsum
+Button_DAD4BC95_D5AB_F5DD_41E6_8C5856F56243_mobile.label = Lorem Ipsum
+Button_DAD4BC97_D5AB_F5DD_4198_7EAB3FE84293.label = BACK
+Button_DAD4BC97_D5AB_F5DD_4198_7EAB3FE84293_mobile.label = BACK
+Button_DAD4CC95_D5AB_F5DD_41E8_5868C672FCF7.label = Lorem Ipsum
+Button_DAD4CC95_D5AB_F5DD_41E8_5868C672FCF7_mobile.label = Lorem Ipsum
+Button_DAD4DC96_D5AB_F5DF_41E1_7578C54D09A8.label = Lorem ipsum
+Button_DAD4DC96_D5AB_F5DF_41E1_7578C54D09A8_mobile.label = Lorem ipsum
+Button_DAD4EC94_D5AB_F5D3_418D_8DAA7153B158.label = BACK
+Button_DAD4EC94_D5AB_F5D3_418D_8DAA7153B158_mobile.label = BACK
+Button_DAD4EC96_D5AB_F5DF_41E7_F5206554CD85.label = Lorem Ipsum
+Button_DAD4EC96_D5AB_F5DF_41E7_F5206554CD85_mobile.label = Lorem Ipsum
+Button_DAD4EC97_D5AB_F5DD_41A3_DFC780DFD647.label = Lorem Ipsum
+Button_DAD4EC97_D5AB_F5DD_41A3_DFC780DFD647_mobile.label = Lorem Ipsum
+Button_DAD4FC92_D5AB_F5D7_41D1_C646AE5DBAFA.label = Virtual Tour
+Button_DAD4FC92_D5AB_F5D7_41D1_C646AE5DBAFA_mobile.label = Virtual Tour
+Button_DAD4FC97_D5AB_F5DD_4180_068F3B728DE9.label = Lorem Ipsum
+Button_DAD4FC97_D5AB_F5DD_4180_068F3B728DE9_mobile.label = Lorem Ipsum
+Button_DAD4FC98_D5AB_F5D3_41CB_742E0770B03A.label = Lorem Ipsum
+Button_DAD4FC98_D5AB_F5D3_41CB_742E0770B03A_mobile.label = Lorem Ipsum
+Button_DAD50C96_D5AB_F5DF_41B7_CED4FB63D076.label = Lorem Ipsum
+Button_DAD50C96_D5AB_F5DF_41B7_CED4FB63D076_mobile.label = Lorem Ipsum
+Button_DAD50C97_D5AB_F5DD_41B4_27420F6C2918.label = Lorem Ipsum
+Button_DAD50C97_D5AB_F5DD_41B4_27420F6C2918.pressedLabel = Lorem Ipsum
+Button_DAD50C97_D5AB_F5DD_41B4_27420F6C2918_mobile.label = Lorem Ipsum
+Button_DAD50C97_D5AB_F5DD_41B4_27420F6C2918_mobile.pressedLabel = Lorem Ipsum
+Button_DAD50C99_D5AB_F5D5_41D8_A5481722F467.label = Lorem Ipsum
+Button_DAD50C99_D5AB_F5D5_41D8_A5481722F467_mobile.label = Lorem Ipsum
+Button_DAD51C94_D5AB_F5D3_41D1_4DEFC7D8A363.label = Pantai Tamarunang
+Button_DAD51C94_D5AB_F5D3_41D1_4DEFC7D8A363_mobile.label = Pantai Tamarunang
+Button_DAD51C96_D5AB_F5DF_41B6_A67257030AC0.label = Lorem Ipsum
+Button_DAD51C96_D5AB_F5DF_41B6_A67257030AC0_mobile.label = Lorem Ipsum
+Button_DAD52C92_D5AB_F5D7_41E7_B1BA488EF5E2.label = Jeneponto
+Button_DAD52C92_D5AB_F5D7_41E7_B1BA488EF5E2_mobile.label = Jeneponto
+Button_DAD52C94_D5AB_F5D3_41EA_202559FB0F98.label = Hutan Mangrofe Tarusang
+Button_DAD52C94_D5AB_F5D3_41EA_202559FB0F98_mobile.label = Hutan Mangrofe Tarusang
+Button_DAD52C96_D5AB_F5DF_41E3_4A7A7455F144.label = Lorem Ipsum
+Button_DAD52C96_D5AB_F5DF_41E3_4A7A7455F144_mobile.label = Lorem Ipsum
+Button_DAD52C97_D5AB_F5DD_41DC_AB6F1D39A4A7.label = Lorem Ipsum
+Button_DAD52C97_D5AB_F5DD_41DC_AB6F1D39A4A7_mobile.label = Lorem Ipsum
+Button_DAD52C99_D5AB_F5D5_41B5_F4AF1491B537.label = BACK
+Button_DAD52C99_D5AB_F5D5_41B5_F4AF1491B537_mobile.label = BACK
+Button_DAD53C94_D5AB_F5D3_41B7_D9FE6BDADC21.label = Waterpark Boyong
+Button_DAD53C94_D5AB_F5D3_41B7_D9FE6BDADC21.pressedLabel = Reception
+Button_DAD53C94_D5AB_F5D3_41B7_D9FE6BDADC21_mobile.label = Batu Siping Bangkala
+Button_DAD53C94_D5AB_F5D3_41B7_D9FE6BDADC21_mobile.pressedLabel = Reception
+Button_DAD53C97_D5AB_F5DD_41E9_00BA7B152B63.label = Lorem Ipsum
+Button_DAD53C97_D5AB_F5DD_41E9_00BA7B152B63_mobile.label = Lorem Ipsum
+Button_DAD54C93_D5AB_F5D5_41BC_F6C779589DCA.label = Spot
+Button_DAD54C93_D5AB_F5D5_41BC_F6C779589DCA.pressedLabel = Inserdt Text
+Button_DAD54C93_D5AB_F5D5_41BC_F6C779589DCA_mobile.label = Spot
+Button_DAD54C93_D5AB_F5D5_41BC_F6C779589DCA_mobile.pressedLabel = Inserdt Text
+Button_DAD54C94_D5AB_F5D3_41E1_6D1EA9BA5F1B.label = Oase Turatea
+Button_DAD54C94_D5AB_F5D3_41E1_6D1EA9BA5F1B_mobile.label = PLTB Tolo
+Button_DAD54C96_D5AB_F5DF_41E1_4B719C62A342.label = BACK
+Button_DAD54C96_D5AB_F5DF_41E1_4B719C62A342_mobile.label = BACK
+Button_DAD54C97_D5AB_F5DD_41D9_3355FD6C67DB.label = Lorem ipsum
+Button_DAD54C97_D5AB_F5DD_41D9_3355FD6C67DB_mobile.label = Lorem ipsum
+Button_DAD55C95_D5AB_F5DD_41E1_0F38BA421C9B.label = Lembah Hijau Rumbia
+Button_DAD55C95_D5AB_F5DD_41E1_0F38BA421C9B_mobile.label = Lembah Hijau Rumbia
+Button_DAD56C93_D5AB_F5D5_41D7_F2F008C2BF79.label = Tentang
+Button_DAD56C93_D5AB_F5D5_41D7_F2F008C2BF79_mobile.label = Tentang
+Button_DAD56C95_D5AB_F5DD_41DC_531E8D501E3D.label = Bukit Sinalu Bulu jaya
+Button_DAD56C95_D5AB_F5DD_41DC_531E8D501E3D_mobile.label = Bukit Sinalu Bulu jaya
+Button_DAD56C97_D5AB_F5DD_41E2_21BE8F51DECD.label = Lorem Ipsum
+Button_DAD56C97_D5AB_F5DD_41E2_21BE8F51DECD_mobile.label = Lorem Ipsum
+Button_DAD56C99_D5AB_F5D5_41E2_5AC4ABF9F3E7.label = Lorem Ipsum
+Button_DAD56C99_D5AB_F5D5_41E2_5AC4ABF9F3E7_mobile.label = Lorem Ipsum
+Button_DAD57C95_D5AB_F5DD_41DB_3191F707A5DC.label = Batu Siping
+Button_DAD57C95_D5AB_F5DD_41DB_3191F707A5DC_mobile.label = Batu Siping
+Button_DAD57C98_D5AB_F5D3_41CA_13FC2742D6B3.label = Lorem Ipsum
+Button_DAD57C98_D5AB_F5D3_41CA_13FC2742D6B3_mobile.label = Lorem Ipsum
+Button_DAD57C99_D5AB_F5D5_41B5_A0D3C8C02A64.label = Lorem Ipsum
+Button_DAD57C99_D5AB_F5D5_41B5_A0D3C8C02A64_mobile.label = Lorem Ipsum
+Button_DAD58C93_D5AB_F5D5_41C5_EE907C087BD6.label = Kontak
+Button_DAD58C93_D5AB_F5D5_41C5_EE907C087BD6_mobile.label = Kontak
+Button_DAD58C95_D5AB_F5DD_41C8_AD6452DAE808.label = Kampoeng mangrove Ra'ra
+Button_DAD58C95_D5AB_F5DD_41C8_AD6452DAE808_mobile.label = Kampoeng mangrove Ra'ra
+Button_DAD58C98_D5AB_F5D3_41BF_4E41C3AB4835.label = Lorem Ipsum
+Button_DAD58C98_D5AB_F5D3_41BF_4E41C3AB4835_mobile.label = Lorem Ipsum
+Button_DAD58C99_D5AB_F5D5_41E0_E4A318F76E0B.label = Lorem Ipsum
+Button_DAD58C99_D5AB_F5D5_41E0_E4A318F76E0B.pressedLabel = Lorem Ipsum
+Button_DAD58C99_D5AB_F5D5_41E0_E4A318F76E0B_mobile.label = Lorem Ipsum
+Button_DAD58C99_D5AB_F5D5_41E0_E4A318F76E0B_mobile.pressedLabel = Lorem Ipsum
+Button_DAD59C95_D5AB_F5DD_41E8_4725AB0DAF90.label = Garden
+Button_DAD59C95_D5AB_F5DD_41E8_4725AB0DAF90_mobile.label = Garden
+Button_DAD59C98_D5AB_F5D3_41CB_1CBAE438ED4E.label = Lorem Ipsum
+Button_DAD59C98_D5AB_F5D3_41CB_1CBAE438ED4E_mobile.label = Lorem Ipsum
+Button_DAD59C99_D5AB_F5D5_41C7_4A6BFA52D5F1.label = Lorem Ipsum
+Button_DAD59C99_D5AB_F5D5_41C7_4A6BFA52D5F1_mobile.label = Lorem Ipsum
+Button_DAD5AC93_D5AB_F5D5_41E7_B60C8E036FF8.label = RESTAURANTS >
+Button_DAD5AC93_D5AB_F5D5_41E7_B60C8E036FF8_mobile.label = RESTAURANTS >
+Button_DAD5AC99_D5AB_F5D5_41E8_20C44223C6B0.label = Lorem Ipsum
+Button_DAD5AC99_D5AB_F5D5_41E8_20C44223C6B0_mobile.label = Lorem Ipsum
+Button_DAD5BC95_D5AB_F5DD_41E3_5FE837F49158.label = Lorem Ipsum
+Button_DAD5BC95_D5AB_F5DD_41E3_5FE837F49158_mobile.label = Lorem Ipsum
+Button_DAD5BC98_D5AB_F5D3_41E7_4D59149A6299.label = BACK
+Button_DAD5BC98_D5AB_F5D3_41E7_4D59149A6299_mobile.label = BACK
+Button_DAD5BC99_D5AB_F5D5_41E7_5C32F0E1A320.label = Lorem ipsum
+Button_DAD5BC99_D5AB_F5D5_41E7_5C32F0E1A320_mobile.label = Lorem ipsum
+Button_DAD5CC99_D5AB_F5D5_41CF_EE963989D639.label = Lorem Ipsum
+Button_DAD5CC99_D5AB_F5D5_41CF_EE963989D639_mobile.label = Lorem Ipsum
+Button_DAD5DC99_D5AB_F5D5_41E2_2941C0163B7E.label = Lorem Ipsum
+Button_DAD5DC99_D5AB_F5D5_41E2_2941C0163B7E_mobile.label = Lorem Ipsum
+Button_DAD5EC98_D5AB_F5D3_41E5_D0B48F43E517.label = Lorem Ipsum
+Button_DAD5EC98_D5AB_F5D3_41E5_D0B48F43E517_mobile.label = Lorem Ipsum
+Button_DAD5EC99_D5AB_F5D5_41E2_C573F5F1C230.label = Lorem Ipsum
+Button_DAD5EC99_D5AB_F5D5_41E2_C573F5F1C230_mobile.label = Lorem Ipsum
+Button_DAD5FC99_D5AB_F5D5_41E2_8EBBCEFB1443.label = Lorem Ipsum
+Button_DAD5FC99_D5AB_F5D5_41E2_8EBBCEFB1443_mobile.label = Lorem Ipsum
+Button_DAD7EC96_D5AB_F5DF_41B9_45960B4DCFFF.label = Lorem Ipsum
+Button_DAD7EC96_D5AB_F5DF_41B9_45960B4DCFFF_mobile.label = Lorem Ipsum
+Button_DAD7FC96_D5AB_F5DF_41D7_F32DB31D8BDD.label = Lorem Ipsum
+Button_DAD7FC96_D5AB_F5DF_41D7_F32DB31D8BDD_mobile.label = Lorem Ipsum
+Button_FA7D981D_E84C_46A5_41DA_AA892641241B.label = Bukit Bossolo'
+Button_FA7D981D_E84C_46A5_41DA_AA892641241B_mobile.label = Bukit Bossolo'
+Button_FBFE45BB_E844_49ED_41E5_A68EBB8D64EC.label = Batu Siping
+Button_FBFE45BB_E844_49ED_41E5_A68EBB8D64EC_mobile.label = Batu Siping
+
+### Multiline Text
+HTMLText_182DA698_0E6B_F3A2_4194_ED723E113F48.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:3.3285094066570204vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.33vh;font-family:'Otama.ep';"><B>LIST WISATA WATERPARK BOYONG</B></SPAN></SPAN></DIV></div>
+HTMLText_1B0BDFED_0FC5_03E2_41A2_7E4779E3C701.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:3.3285094066570204vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.33vh;font-family:'Otama.ep';"><B>LIST WISATA OASE TURATEA</B></SPAN></SPAN></DIV></div>
+HTMLText_CCF10E00_D9C4_2AC4_41C7_86C3378FE596.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:6.0781476121563vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.08vh;font-family:'Otama.ep';"><B>LIST WISATA</B></SPAN></SPAN></DIV></div>
+HTMLText_CCF10E00_D9C4_2AC4_41C7_86C3378FE596_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:2.500000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.5vh;font-family:'Otama.ep';"><B>LIST WISATA</B></SPAN></SPAN></DIV></div>
+HTMLText_D025777F_DD4B_CEAC_41E2_43118FB8CDD0.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:22px;font-family:'Times New Roman', Times, serif;"><B>Selamat Datang di Virtual Tour Wisata Kabupaten Jeneponto</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:22px;"><B>____________________________________________________</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:22px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:17px;font-family:'Cambria';">Nikmati keindahan destinasi wisata yang ada di kabupaten jeneponto dengan menggunakan virtual tour ini yang lebih interaktif dimanapun dan kapanpun.</SPAN></SPAN></DIV></div>
+HTMLText_D025777F_DD4B_CEAC_41E2_43118FB8CDD0_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:11px;"><B>Selamat Datang di Virtual Tour Wisata Kabupaten Jeneonto</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:11px;"><B>__________________________</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:6px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;">. </SPAN></SPAN></DIV></div>
+HTMLText_DAD5FC93_D5AB_F5D5_41CF_EFBD0C61B61A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_DAD5FC93_D5AB_F5D5_41CF_EFBD0C61B61A_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_F3DBA41E_FD95_37D0_41EE_26F0E0766449.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:3.3285094066570204vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.33vh;font-family:'Otama.ep';"><B>LIST WISATA PANTAI TAMARUNANG</B></SPAN></SPAN></DIV></div>
+HTMLText_FE05946F_E903_34B6_41E6_A2B39B38AE1D.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:3.3285094066570204vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.33vh;font-family:'Otama.ep';"><B>LIST WISATA HUTAN MANGROVE TARUSANG</B></SPAN></SPAN></DIV></div>
+HTMLText_FE05946F_E903_34B6_41E6_A2B39B38AE1D_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:1.40625vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.41vh;font-family:'Otama.ep';"><B>LIST WISATA HUTAN MANGROVE TARUSANG</B></SPAN></SPAN></DIV></div>
+
+## Media
+
+### Title
+panorama_0132C8DE_0A2A_F7B3_4194_F4BB05C623CF.label = Oase 11
+panorama_01337800_0A2A_768F_4196_72803D879E00.label = Oase 7
+panorama_01338892_0A2A_B7B3_414E_8D9EC04268A4.label = Oase 9
+panorama_0133C80C_0A2A_9697_418C_F7FDF27CD168.label = Oase 8
+panorama_0133C868_0A2A_969F_4186_4BC5701478DB.label = Oase 10
+panorama_013425FC_0A2D_9977_419B_0F77DED8D88A.label = Oase 5
+panorama_01347644_0A2D_9A97_4180_5F47028C4501.label = Oase 3
+panorama_013486B8_0A2D_BBFF_41A0_6340E4AD8D55.label = Oase 2
+panorama_0134A61D_0A2D_BAB1_419C_2436730B3574.label = Oase 6
+panorama_0134B653_0A2D_FAB1_418C_66AE90ABB8DF.label = Oase 4
+panorama_01B1389D_0A2A_97B1_4192_4B707EFF807B.label = Oase 12
+panorama_021FD5C3_0E59_D1A6_41A0_65158B40AD86.label = Waterpark 6
+panorama_0261456E_0E59_B17E_415C_0666344B993B.label = Waterpark 5
+panorama_0590C867_0E59_BF6E_4181_91B97A776894.label = Waterpark 9
+panorama_0591F74C_0E59_D2A2_41A9_02131F6323C2.label = Waterpark 8
+panorama_0592083F_0E5A_BEDE_4174_FFDC708491D1.label = Waterpark 11
+panorama_0592165A_0E59_F2A6_4194_8852A6F61E55.label = Waterpark 7
+panorama_059217E7_0E5B_B16D_4167_49978FFA8345.label = Waterpark 20
+panorama_059218B1_0E5A_7FE2_41AC_653A030182D6.label = Waterpark 13
+panorama_059227C7_0E5A_51AE_4182_7239B4F13D71.label = Waterpark 12
+panorama_05922873_0E5A_5F66_4195_A5BD766024CB.label = Waterpark 21
+panorama_0592379A_0E5B_F1A6_41A4_C19F1FED7E9D.label = Waterpark 18
+panorama_0592383D_0E5B_DEE2_41A0_92A5CA8F7CF7.label = Waterpark 17
+panorama_0592682E_0E5A_5EFE_4180_8C9F078467B2.label = Waterpark 14
+panorama_0592C799_0E5A_D1A2_41AC_6AC8A53B17AE.label = Waterpark 10
+panorama_0592C874_0E5B_BF62_41A5_E22730CB4E76.label = Waterpark  15
+panorama_05930635_0E5A_B2E2_41A1_25676E298853.label = Waterpark 1
+panorama_05932513_0E5A_76A6_418D_1DEFC8A5D2D1.label = Waterpark 3
+panorama_05933546_0E5A_56AE_41A7_5965C26768BF.label = Waterpark 2
+panorama_059337CA_0E5A_F1A6_419C_A49509799758.label = Waterpark 26
+panorama_0593453D_0E5A_56E2_4174_EA2344553B57.label = Waterpark 4
+panorama_0593685A_0E5A_BEA6_41A9_720AA90BC2DA.label = Waterpark 24
+panorama_059378FF_0E5A_5F5E_41A5_B38C47A0AB4E.label = Waterpark 23
+panorama_0593C8A9_0E5A_DFE4_419E_CABA76C657E1.label = Waterpark 25
+panorama_0593D6F8_0E5A_D363_419B_278FEBCE4F3E.label = Waterpark 27
+panorama_0593F81F_0E5B_DEDE_41A6_103411E57898.label = Waterpark 19
+panorama_0593F947_0E5A_7EAD_419C_6075F032906C.label = Waterpark 22
+panorama_F1C18906_FD9F_31B3_41E5_372B92162BF6.label = Tamarunang 1
+panorama_F26607FF_F907_8F5A_41EC_42A00B9C75D8.label = Tarusang 10
+panorama_F2661893_F907_81A9_41C3_A8C7697DEDAE.label = Tarusang 12
+panorama_F2661A38_F906_80E6_41D3_74F1BB90313B.label = Tarusang 14
+panorama_F26629D0_F906_83A7_41E7_BEFD031EF811.label = Tarusang 2
+panorama_F2662A4B_F906_80B9_41CB_EA6B9D4C097E.label = Tarusang 16
+panorama_F2663863_F907_8169_41EA_3C189BDD43D2.label = Tarusang 6
+panorama_F266591C_F907_80DF_41CA_BF1396132D25.label = Tarusang 13
+panorama_F266776B_F907_8F79_41E9_88BF184EFE8B.label = Tarusang 9
+panorama_F266CA60_F906_8167_41C4_7B1813D9E8DF.label = Tarusang 15
+panorama_F267784C_F906_80BF_41E7_54409B3970D6.label = Tarusang 4
+panorama_F267B7CB_F907_8FB9_41EE_44403EB180FD.label = Tarusang 8
+panorama_F267B7F1_F907_8F66_41EA_0AF58176E527.label = Tarusang 11
+panorama_F267C7F1_F907_8F69_41E1_A025F5642B61.label = Tarusang 7
+panorama_F267C89A_F906_81DA_41CB_FBB55F903061.label = Tarusang 5
+panorama_F267F92D_F906_80FE_41ED_50F4BF0AF055.label = Tarusang 3
+panorama_F26F3A3C_F906_80DF_41D5_F36E8990FAFF.label = Tarusang 1
+panorama_F7692600_FD9D_F3AF_41A0_966BCC64BBF8.label = Tamarunang 12
+panorama_F7693813_FD9D_7FD1_41E3_8B3D7BA1B5F2.label = Tamarunang 8
+panorama_F7693932_FD9F_11D3_41E4_09F5335A0E7F.label = Tamarunang 2
+panorama_F7695714_FD9D_31D0_41EE_20A483E0CE01.label = Tamarunang 10
+panorama_F76957ED_FD9D_1070_41E3_511C04422465.label = Tamarunang 9
+panorama_F769769F_FD9D_10CF_41DD_6F6EA394D1D9.label = Tamarunang 11
+panorama_F769E5D6_FD9D_1050_41C8_92AD97840CBE.label = Tamarunang 13
+panorama_F76AA828_FD9D_3FFF_41E8_A3128E6D19B9.label = Tamarunang 7
+panorama_F76AE8BD_FD9D_10D0_41E5_75BC91FEFF4D.label = Tamarunang 6
+panorama_F76B586B_FD9C_F071_41AF_2A0B8D4BCEFB.label = Tamarunang 5
+panorama_F76B78BC_FD9F_10D7_41CF_64899D6D33B1.label = Tamarunang 4
+panorama_F76B7943_FD9F_11B0_41E1_42C02151E66C.label = Tamarunang 3
+panorama_F76BA93C_FD9F_31D7_418D_4C0E9A0CA8B5.label = Tamarunang 4
